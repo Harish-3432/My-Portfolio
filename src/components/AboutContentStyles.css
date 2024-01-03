@@ -1,0 +1,31 @@
+.about{
+    background: black;
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.about .left{
+    background-color: black;
+    text-align: left;
+    margin: auto;
+    padding: 1rem;
+    max-width: 550px;
+}
+
+.about .left  p{
+  margin: 1.2rem 0;
+
+}
+
+
+
+
+
+.btn{
+    width: fit-content;
+}
